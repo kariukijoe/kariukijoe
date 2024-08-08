@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me(+254745554691 or joekariuki71@mail.com)
 - 😄 Pronouns:He, Him
-- ⚡ Fun fact: I LOVE NETWORKING.
+- ⚡ Fun fact: I LOVE CODING AND I APPRECIATE TECHNOLOGY.
 
 <!---
 kariukijoe/kariukijoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
